@@ -1,2 +1,3 @@
 # HelloWorld
 First Repo in GitHub to explore code collaborate
+I AM NEW TO PROGRAMMING. HOPEFULLY THIS WILL MOTIVATE ME TO DO MORE HANDS-ON WORK AND LEARN CODING
